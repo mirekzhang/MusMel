@@ -1,0 +1,359 @@
+0000.000 (0) Opened log file at time: Tue, 16 Apr 2019 05:36:39 +0000 on http://13.210.247.125/wordpress
+0000.009 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.11 WP: 5.1.1 PHP: 7.2.15-0ubuntu0.18.04.2 (apache2handler, Linux ip-172-31-9-77 4.15.0-1035-aws #37-Ubuntu SMP Mon Mar 18 16:15:14 UTC 2019 x86_64) MySQL: 5.7.25-0ubuntu0.18.04.2 WPLANG: en_US Server: Apache/2.4.29 (Ubuntu) safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 7.6M | 8M) multisite: N openssl: OpenSSL 1.1.0g  2 Nov 2017 mcrypt: N LANG: C ZipArchive::addFile: Y
+0000.012 (0) Free space on disk containing Updraft's temporary directory: 4526.9 MB
+0000.021 (0) Tasks: Backup files: 1 (schedule: manual) Backup DB: 1 (schedule: manual)
+0000.033 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.074 (0) Set semaphore last lock (fd) time to 2019-04-16 05:36:40
+0000.084 (0) Semaphore lock (fd) complete
+0000.113 (0) Backup run: resumption=0, nonce=e01da9e77110, file_nonce=e01da9e77110 begun at=1555392999 (1s ago), job type=backup
+0000.133 (0) Scheduling a resumption (1) after 300 seconds (1555393300) in case this run gets aborted
+0000.177 (0) Checking if we have a zip executable available
+0000.188 (0) Creation of backups of directories: beginning
+0000.202 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0000.265 (0) Total entities for the zip file: 434 directories, 2710 files (0 skipped as non-modified), 40.9 MB
+0000.275 (0) Zip: backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0000.283 (0) Zip: backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0000.294 (0) Zip: backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0000.303 (0) Zip: backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0000.313 (0) Zip: backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0000.321 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (3.5 MB, 2710 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0000.765 (0) Zip: backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-plugins.zip.tmp: 600 files added (on-disk size: 1302.9 KB)
+0000.771 (0) Zip: backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-plugins.zip.tmp: 700 files added (on-disk size: 1302.9 KB)
+0000.781 (0) Zip: backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-plugins.zip.tmp: 800 files added (on-disk size: 1302.9 KB)
+0000.791 (0) Zip: backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-plugins.zip.tmp: 900 files added (on-disk size: 1302.9 KB)
+0000.801 (0) Zip: backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-plugins.zip.tmp: 1000 files added (on-disk size: 1302.9 KB)
+0000.809 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (7.2 MB, 2710 files batched, 501 (1002) added so far); re-opening (prior size: 1302.9 KB)
+0001.517 (0) Zip: backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-plugins.zip.tmp: 1100 files added (on-disk size: 4006.7 KB)
+0001.522 (0) Zip: backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-plugins.zip.tmp: 1200 files added (on-disk size: 4006.7 KB)
+0001.531 (0) Zip: backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-plugins.zip.tmp: 1300 files added (on-disk size: 4006.7 KB)
+0001.541 (0) Zip: backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-plugins.zip.tmp: 1400 files added (on-disk size: 4006.7 KB)
+0001.551 (0) Zip: backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-plugins.zip.tmp: 1500 files added (on-disk size: 4006.7 KB)
+0001.559 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (8.3 MB, 2710 files batched, 501 (1503) added so far); re-opening (prior size: 4006.7 KB)
+0002.531 (0) Zip: backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-plugins.zip.tmp: 1600 files added (on-disk size: 6260.2 KB)
+0002.536 (0) Zip: backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-plugins.zip.tmp: 1700 files added (on-disk size: 6260.2 KB)
+0002.545 (0) Zip: backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-plugins.zip.tmp: 1800 files added (on-disk size: 6260.2 KB)
+0002.555 (0) Zip: backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-plugins.zip.tmp: 1900 files added (on-disk size: 6260.2 KB)
+0002.565 (0) Zip: backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-plugins.zip.tmp: 2000 files added (on-disk size: 6260.2 KB)
+0002.573 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (1.2 MB, 2710 files batched, 501 (2004) added so far); re-opening (prior size: 6260.2 KB)
+0002.966 (0) Zip: backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-plugins.zip.tmp: 2100 files added (on-disk size: 6802.1 KB)
+0002.971 (0) Zip: backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-plugins.zip.tmp: 2200 files added (on-disk size: 6802.1 KB)
+0002.981 (0) Zip: backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-plugins.zip.tmp: 2300 files added (on-disk size: 6802.1 KB)
+0002.990 (0) Zip: backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-plugins.zip.tmp: 2400 files added (on-disk size: 6802.1 KB)
+0003.000 (0) Zip: backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-plugins.zip.tmp: 2500 files added (on-disk size: 6802.1 KB)
+0003.008 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (6.4 MB, 2710 files batched, 501 (2505) added so far); re-opening (prior size: 6802.1 KB)
+0003.768 (0) Zip: backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-plugins.zip.tmp: 2600 files added (on-disk size: 8582.1 KB)
+0003.773 (0) Zip: backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-plugins.zip.tmp: 2700 files added (on-disk size: 8582.1 KB)
+0005.252 (0) Created plugins zip (0) - 12663.8 KB in 5 s (2512.6 KB/s) (sha1: c5071b8cf1104e30023e83d8243772b9fad6ae78, sha256: a209eb8d864599ed4a44c82ea1dbb3e84c97ed1ae52b742820d15f65e1025af9)
+0005.263 (0) Beginning creation of dump of themes (split every: 400 MB)
+0005.283 (0) /var/www/html/wordpress/wp-content/themes/empowerwp/customizer/.customer.php.swp: unreadable file
+0005.302 (0) [Warning] themes/empowerwp/customizer/.customer.php.swp: unreadable file - could not be backed up
+0005.337 (0) Total entities for the zip file: 297 directories, 1438 files (0 skipped as non-modified), 36.6 MB
+0005.350 (0) Zip: backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0005.359 (0) Zip: backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0005.369 (0) Zip: backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0005.379 (0) Zip: backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0005.389 (0) Zip: backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-themes.zip.tmp: 500 files added (on-disk size: 0 KB)
+0005.396 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (9.5 MB, 1438 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0006.183 (0) Zip: backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-themes.zip.tmp: 600 files added (on-disk size: 5609.2 KB)
+0006.191 (0) Zip: backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-themes.zip.tmp: 700 files added (on-disk size: 5609.2 KB)
+0006.200 (0) Zip: backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-themes.zip.tmp: 800 files added (on-disk size: 5609.2 KB)
+0006.210 (0) Zip: backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-themes.zip.tmp: 900 files added (on-disk size: 5609.2 KB)
+0006.220 (0) Zip: backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-themes.zip.tmp: 1000 files added (on-disk size: 5609.2 KB)
+0006.228 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (14 MB, 1438 files batched, 501 (1002) added so far); re-opening (prior size: 5609.2 KB)
+0007.230 (0) Zip: backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-themes.zip.tmp: 1100 files added (on-disk size: 14460.3 KB)
+0007.236 (0) Zip: backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-themes.zip.tmp: 1200 files added (on-disk size: 14460.3 KB)
+0007.246 (0) Zip: backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-themes.zip.tmp: 1300 files added (on-disk size: 14460.3 KB)
+0007.256 (0) Zip: backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-themes.zip.tmp: 1400 files added (on-disk size: 14460.3 KB)
+0008.621 (0) Created themes zip (0) - 22356.4 KB in 3.3 s (6674 KB/s) (sha1: b61f651f391d081ae09129d44cb7f80ef79d320c, sha256: 45997b5ee1ca08f94dc0d56e23479cf3dc77e9c05534c7278a15e930f943139c)
+0008.641 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0008.657 (0) Looking for candidates to backup in: /var/www/html/wordpress/wp-content/uploads
+0008.667 (0) finding files: 2019: adding to list (1)
+0008.677 (0) finding files: supsystic-tables: adding to list (2)
+0008.687 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0008.721 (0) Total entities for the zip file: 7 directories, 522 files (0 skipped as non-modified), 40 MB
+0008.728 (0) Zip: backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0008.738 (0) Zip: backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-uploads.zip.tmp: 200 files added (on-disk size: 0 KB)
+0008.748 (0) Zip: backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-uploads.zip.tmp: 300 files added (on-disk size: 0 KB)
+0008.756 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25 MB, 522 files batched, 316 (316) added so far); re-opening (prior size: 0 KB)
+0009.328 (0) A useful amount of data was added after this amount of zip processing: 1.3 s (normalised: 1.3 s, rate: 20264.4 KB/s)
+0009.348 (0) Performance is good - will increase the amount of data we attempt to batch (time=1.2634410858154, normalised_time=1.2632982476804, max_time=9.3375480175018, data points known=1, old_max_bytes=26214400, new_max_bytes=124504565)
+0009.371 (0) Zip: backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-uploads.zip.tmp: 400 files added (on-disk size: 25671.4 KB)
+0009.380 (0) Zip: backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-uploads.zip.tmp: 500 files added (on-disk size: 25671.4 KB)
+0010.316 (0) Created uploads zip (0) - 41092.2 KB in 1.6 s (25378.5 KB/s) (sha1: 49845019ad990881654b66c93e106f87bb6352b6, sha256: bc1d8745126b9a44c5a1c27d8a6ec36d3df6ebc43c71b2863d726daf2cf33ec1)
+0010.345 (0) Beginning backup of other directories found in the content directory (index: 0)
+0010.355 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0010.365 (0) Looking for candidates to backup in: /var/www/html/wordpress/wp-content
+0010.375 (0) finding files: uploads: skipping: this is the uploads directory
+0010.385 (0) finding files: updraft: skipping: this is the updraft directory
+0010.395 (0) finding files: index.php: adding to list (1)
+0010.405 (0) finding files: cache: skipping: excluded by options
+0010.415 (0) finding files: themes: skipping: this is the themes directory
+0010.425 (0) finding files: w3tc-config: adding to list (2)
+0010.435 (0) finding files: upgrade: skipping: excluded by options
+0010.444 (0) finding files: plugins: skipping: this is the plugins directory
+0010.455 (0) finding files: languages: adding to list (3)
+0010.475 (0) Total entities for the zip file: 4 directories, 38 files (0 skipped as non-modified), 2.1 MB
+0010.775 (0) Created others zip (0) - 667.9 KB in 0.3 s (2151.3 KB/s) (sha1: 9d4efa1cf3a3ce0581a6e61e0d82d9248a4ec535, sha256: 5674eb21f7bbf8b2f3854e1f2cd93c9c6948c6cb7c0527b448566a71909faad4)
+0010.815 (0) Saving backup status to database (elements: 8)
+0010.835 (0) Beginning creation of database dump (WordPress DB)
+0010.864 (0) Testing potential mysqldump binary: /usr/bin/mysqldump
+0010.939 (0) Output: /*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;\n/*!40103 SET TIME_ZONE='+00:00' */;\n/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;\n/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;\n/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;\n/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;\nDROP TABLE IF EXISTS `wp_options`;\n/*!40101 SET @saved_cs_client     = @@character_set_client */;\n/*!40101 SET character_set_client = utf8 */;\nCRE (truncated - 1217 bytes total)
+0010.942 (0) Working binary mysqldump found: /usr/bin/mysqldump
+0010.992 (0) Table wp_options: Total expected rows (approximate): 361
+0011.038 (0) Table wp_options: Total rows added: 365 in 0.04 seconds
+0011.041 (0) Table wp_options: finishing file (backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-db-table-wp_options.table.gz - 180.4 KB)
+0011.071 (0) Table wp_users: Total expected rows (approximate): 6
+0011.081 (0) Table wp_users: Total rows added: 6 in 0.00 seconds
+0011.090 (0) Table wp_users: finishing file (backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-db-table-wp_users.table.gz - 1 KB)
+0011.121 (0) Table wp_usermeta: Total expected rows (approximate): 147
+0011.132 (0) Table wp_usermeta: Total rows added: 147 in 0.00 seconds
+0011.140 (0) Table wp_usermeta: finishing file (backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-db-table-wp_usermeta.table.gz - 3.5 KB)
+0011.171 (0) Table wp_commentmeta: Total expected rows (approximate): 0
+0011.181 (0) Table wp_commentmeta: Total rows added: 0 in 0.00 seconds
+0011.190 (0) Table wp_commentmeta: finishing file (backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-db-table-wp_commentmeta.table.gz - 0.4 KB)
+0011.220 (0) Table wp_comments: Total expected rows (approximate): 1
+0011.231 (0) Table wp_comments: Total rows added: 1 in 0.00 seconds
+0011.240 (0) Table wp_comments: finishing file (backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-db-table-wp_comments.table.gz - 0.7 KB)
+0011.270 (0) Table wp_links: Total expected rows (approximate): 0
+0011.280 (0) Table wp_links: Total rows added: 0 in 0.00 seconds
+0011.289 (0) Table wp_links: finishing file (backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-db-table-wp_links.table.gz - 0.4 KB)
+0011.320 (0) Table wp_postmeta: Total expected rows (approximate): 970
+0011.338 (0) Table wp_postmeta: Total rows added: 970 in 0.01 seconds
+0011.341 (0) Table wp_postmeta: finishing file (backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-db-table-wp_postmeta.table.gz - 20.3 KB)
+0011.371 (0) Table wp_posts: Total expected rows (approximate): 418
+0011.467 (0) Table wp_posts: Total rows added: 543 in 0.09 seconds
+0011.470 (0) Table wp_posts: finishing file (backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-db-table-wp_posts.table.gz - 372.6 KB)
+0011.500 (0) Table wp_term_relationships: Total expected rows (approximate): 23
+0011.510 (0) Table wp_term_relationships: Total rows added: 23 in 0.00 seconds
+0011.519 (0) Table wp_term_relationships: finishing file (backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-db-table-wp_term_relationships.table.gz - 0.4 KB)
+0011.549 (0) Table wp_term_taxonomy: Total expected rows (approximate): 9
+0011.559 (0) Table wp_term_taxonomy: Total rows added: 9 in 0.00 seconds
+0011.568 (0) Table wp_term_taxonomy: finishing file (backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-db-table-wp_term_taxonomy.table.gz - 0.5 KB)
+0011.599 (0) Table wp_termmeta: Total expected rows (approximate): 0
+0011.609 (0) Table wp_termmeta: Total rows added: 0 in 0.00 seconds
+0011.618 (0) Table wp_termmeta: finishing file (backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-db-table-wp_termmeta.table.gz - 0.4 KB)
+0011.648 (0) Table wp_terms: Total expected rows (approximate): 9
+0011.659 (0) Table wp_terms: Total rows added: 9 in 0.00 seconds
+0011.668 (0) Table wp_terms: finishing file (backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-db-table-wp_terms.table.gz - 0.5 KB)
+0011.688 (0) Skipping table (lacks our prefix (wp_)): crime
+0011.698 (0) Skipping table (lacks our prefix (wp_)): no_of_school
+0011.707 (0) Skipping table (lacks our prefix (wp_)): school_location
+0011.717 (0) Skipping table (lacks our prefix (wp_)): suburb_detail
+0011.738 (0) Table wp_mappress_maps: Total expected rows (approximate): 0
+0011.748 (0) Table wp_mappress_maps: Total rows added: 0 in 0.00 seconds
+0011.758 (0) Table wp_mappress_maps: finishing file (backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-db-table-wp_mappress_maps.table.gz - 0.3 KB)
+0011.788 (0) Table wp_mappress_posts: Total expected rows (approximate): 0
+0011.798 (0) Table wp_mappress_posts: Total rows added: 0 in 0.00 seconds
+0011.807 (0) Table wp_mappress_posts: finishing file (backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-db-table-wp_mappress_posts.table.gz - 0.3 KB)
+0011.837 (0) Table wp_supsystic_tbl_columns: Total expected rows (approximate): 0
+0011.848 (0) Table wp_supsystic_tbl_columns: Total rows added: 0 in 0.00 seconds
+0011.857 (0) Table wp_supsystic_tbl_columns: finishing file (backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-db-table-wp_supsystic_tbl_columns.table.gz - 0.3 KB)
+0011.887 (0) Table wp_supsystic_tbl_diagrams: Total expected rows (approximate): 0
+0011.898 (0) Table wp_supsystic_tbl_diagrams: Total rows added: 0 in 0.00 seconds
+0011.907 (0) Table wp_supsystic_tbl_diagrams: finishing file (backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-db-table-wp_supsystic_tbl_diagrams.table.gz - 0.3 KB)
+0011.937 (0) Table wp_supsystic_tbl_rows: Total expected rows (approximate): 1212
+0011.975 (0) Table wp_supsystic_tbl_rows: Total rows added: 1300 in 0.03 seconds
+0011.977 (0) Table wp_supsystic_tbl_rows: finishing file (backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-db-table-wp_supsystic_tbl_rows.table.gz - 11 KB)
+0012.008 (0) Table wp_supsystic_tbl_tables: Total expected rows (approximate): 1
+0012.019 (0) Table wp_supsystic_tbl_tables: Total rows added: 1 in 0.00 seconds
+0012.028 (0) Table wp_supsystic_tbl_tables: finishing file (backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-db-table-wp_supsystic_tbl_tables.table.gz - 0.4 KB)
+0012.059 (0) Table wp_wpgmza: Total expected rows (approximate): 2
+0012.069 (0) Table wp_wpgmza: Total rows added: 1 in 0.00 seconds
+0012.078 (0) Table wp_wpgmza: finishing file (backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-db-table-wp_wpgmza.table.gz - 0.5 KB)
+0012.109 (0) Table wp_wpgmza_categories: Total expected rows (approximate): 0
+0012.119 (0) Table wp_wpgmza_categories: Total rows added: 0 in 0.00 seconds
+0012.128 (0) Table wp_wpgmza_categories: finishing file (backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-db-table-wp_wpgmza_categories.table.gz - 0.3 KB)
+0012.159 (0) Table wp_wpgmza_category_maps: Total expected rows (approximate): 0
+0012.169 (0) Table wp_wpgmza_category_maps: Total rows added: 0 in 0.00 seconds
+0012.178 (0) Table wp_wpgmza_category_maps: finishing file (backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-db-table-wp_wpgmza_category_maps.table.gz - 0.3 KB)
+0012.210 (0) Table wp_wpgmza_circles: Total expected rows (approximate): 0
+0012.220 (0) Table wp_wpgmza_circles: Total rows added: 0 in 0.00 seconds
+0012.230 (0) Table wp_wpgmza_circles: finishing file (backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-db-table-wp_wpgmza_circles.table.gz - 0.3 KB)
+0012.260 (0) Table wp_wpgmza_maps: Total expected rows (approximate): 0
+0012.271 (0) Table wp_wpgmza_maps: Total rows added: 1 in 0.00 seconds
+0012.280 (0) Table wp_wpgmza_maps: finishing file (backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-db-table-wp_wpgmza_maps.table.gz - 0.9 KB)
+0012.310 (0) Table wp_wpgmza_polygon: Total expected rows (approximate): 0
+0012.321 (0) Table wp_wpgmza_polygon: Total rows added: 0 in 0.00 seconds
+0012.330 (0) Table wp_wpgmza_polygon: finishing file (backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-db-table-wp_wpgmza_polygon.table.gz - 0.4 KB)
+0012.361 (0) Table wp_wpgmza_polylines: Total expected rows (approximate): 0
+0012.371 (0) Table wp_wpgmza_polylines: Total rows added: 0 in 0.00 seconds
+0012.381 (0) Table wp_wpgmza_polylines: finishing file (backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-db-table-wp_wpgmza_polylines.table.gz - 0.3 KB)
+0012.412 (0) Table wp_wpgmza_rectangles: Total expected rows (approximate): 0
+0012.422 (0) Table wp_wpgmza_rectangles: Total rows added: 0 in 0.00 seconds
+0012.431 (0) Table wp_wpgmza_rectangles: finishing file (backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-db-table-wp_wpgmza_rectangles.table.gz - 0.3 KB)
+0012.451 (0) backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-db-table-wp_options.table.gz (1/30): adding to final database dump
+0012.496 (0) backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-db-table-wp_users.table.gz (2/30): adding to final database dump
+0012.499 (0) backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-db-table-wp_usermeta.table.gz (3/30): adding to final database dump
+0012.508 (0) backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-db-table-wp_commentmeta.table.gz (4/30): adding to final database dump
+0012.511 (0) backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-db-table-wp_comments.table.gz (5/30): adding to final database dump
+0012.519 (0) backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-db-table-wp_links.table.gz (6/30): adding to final database dump
+0012.522 (0) backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-db-table-wp_postmeta.table.gz (7/30): adding to final database dump
+0012.537 (0) backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-db-table-wp_posts.table.gz (8/30): adding to final database dump
+0012.622 (0) backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-db-table-wp_term_relationships.table.gz (9/30): adding to final database dump
+0012.625 (0) backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-db-table-wp_term_taxonomy.table.gz (10/30): adding to final database dump
+0012.635 (0) backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-db-table-wp_termmeta.table.gz (11/30): adding to final database dump
+0012.645 (0) backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-db-table-wp_terms.table.gz (12/30): adding to final database dump
+0012.655 (0) backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-db-table-wp_mappress_maps.table.gz (13/30): adding to final database dump
+0012.665 (0) backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-db-table-wp_mappress_posts.table.gz (14/30): adding to final database dump
+0012.675 (0) backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-db-table-wp_supsystic_tbl_columns.table.gz (15/30): adding to final database dump
+0012.685 (0) backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-db-table-wp_supsystic_tbl_diagrams.table.gz (16/30): adding to final database dump
+0012.695 (0) backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-db-table-wp_supsystic_tbl_rows.table.gz (17/30): adding to final database dump
+0012.720 (0) backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-db-table-wp_supsystic_tbl_tables.table.gz (18/30): adding to final database dump
+0012.723 (0) backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-db-table-wp_wpgmza.table.gz (19/30): adding to final database dump
+0012.733 (0) backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-db-table-wp_wpgmza_categories.table.gz (20/30): adding to final database dump
+0012.743 (0) backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-db-table-wp_wpgmza_category_maps.table.gz (21/30): adding to final database dump
+0012.753 (0) backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-db-table-wp_wpgmza_circles.table.gz (22/30): adding to final database dump
+0012.763 (0) backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-db-table-wp_wpgmza_maps.table.gz (23/30): adding to final database dump
+0012.773 (0) backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-db-table-wp_wpgmza_polygon.table.gz (24/30): adding to final database dump
+0012.783 (0) backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-db-table-wp_wpgmza_polylines.table.gz (25/30): adding to final database dump
+0012.793 (0) backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-db-table-wp_wpgmza_rectangles.table.gz (26/30): adding to final database dump
+0012.804 (0) backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-db.gz: finished writing out complete database file (576 KB)
+0012.843 (0) Total database tables backed up: 26 (backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-db.gz, size: 606446, sha256)
+0012.883 (0) backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0012.893 (0) backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0012.903 (0) backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0012.913 (0) backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-others.zip: others: This file has not yet been successfully uploaded: will queue
+0012.922 (0) backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-db.gz: db: This file has not yet been successfully uploaded: will queue
+0012.932 (0) Saving backup history. Total backup size: 75.6 MB
+0012.952 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0012.982 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0012.992 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-a313e68633122e5e91cf8b09e561b032)
+0018.184 (0) Google Drive: quota usage: used=1124.4 MB, total=15360 MB, available=14235.6 MB
+0018.186 (0) Google Drive: backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-plugins.zip: Attempting to upload to Google Drive (into folder id: 1pjUDF1_tichCybM0O6US0_XWCtSjYI2i)
+0019.988 (0) Googledrive chunked upload: 8.1 % uploaded (1048576)
+0021.004 (0) Googledrive chunked upload: 16.2 % uploaded (2097152)
+0021.939 (0) Googledrive chunked upload: 24.3 % uploaded (3145728)
+0022.834 (0) Googledrive chunked upload: 32.3 % uploaded (4194304)
+0023.896 (0) Googledrive chunked upload: 40.4 % uploaded (5242880)
+0024.983 (0) Googledrive chunked upload: 48.5 % uploaded (6291456)
+0026.067 (0) Googledrive chunked upload: 56.6 % uploaded (7340032)
+0027.074 (0) Googledrive chunked upload: 64.7 % uploaded (8388608)
+0028.064 (0) Googledrive chunked upload: 72.8 % uploaded (9437184)
+0028.901 (0) Googledrive chunked upload: 80.9 % uploaded (10485760)
+0030.343 (0) Googledrive chunked upload: 88.9 % uploaded (11534336)
+0031.392 (0) Googledrive chunked upload: 97 % uploaded (12582912)
+0033.990 (0) Googledrive chunked upload: 100 % uploaded (12582912)
+0034.020 (0) Google Drive: OK: Archive backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-plugins.zip uploaded in 15.82 seconds
+0034.029 (0) Recording as successfully uploaded: backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-plugins.zip
+0034.050 (0) Deleting local file: backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-plugins.zip: OK
+0034.705 (0) Google Drive: quota usage: used=1136.7 MB, total=15360 MB, available=14223.3 MB
+0034.708 (0) Google Drive: backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-themes.zip: Attempting to upload to Google Drive (into folder id: 1pjUDF1_tichCybM0O6US0_XWCtSjYI2i)
+0036.639 (0) Googledrive chunked upload: 4.6 % uploaded (1048576)
+0037.542 (0) Googledrive chunked upload: 9.2 % uploaded (2097152)
+0038.403 (0) Googledrive chunked upload: 13.7 % uploaded (3145728)
+0039.400 (0) Googledrive chunked upload: 18.3 % uploaded (4194304)
+0040.316 (0) Googledrive chunked upload: 22.9 % uploaded (5242880)
+0041.312 (0) Googledrive chunked upload: 27.5 % uploaded (6291456)
+0042.170 (0) Googledrive chunked upload: 32.1 % uploaded (7340032)
+0043.011 (0) Googledrive chunked upload: 36.6 % uploaded (8388608)
+0043.856 (0) Googledrive chunked upload: 41.2 % uploaded (9437184)
+0044.851 (0) Googledrive chunked upload: 45.8 % uploaded (10485760)
+0045.863 (0) Googledrive chunked upload: 50.4 % uploaded (11534336)
+0046.688 (0) Googledrive chunked upload: 55 % uploaded (12582912)
+0047.632 (0) Googledrive chunked upload: 59.5 % uploaded (13631488)
+0048.467 (0) Googledrive chunked upload: 64.1 % uploaded (14680064)
+0049.473 (0) Googledrive chunked upload: 68.7 % uploaded (15728640)
+0050.477 (0) Googledrive chunked upload: 73.3 % uploaded (16777216)
+0051.464 (0) Googledrive chunked upload: 77.9 % uploaded (17825792)
+0052.263 (0) Googledrive chunked upload: 82.4 % uploaded (18874368)
+0053.036 (0) Googledrive chunked upload: 87 % uploaded (19922944)
+0053.912 (0) Googledrive chunked upload: 91.6 % uploaded (20971520)
+0054.728 (0) Googledrive chunked upload: 96.2 % uploaded (22020096)
+0057.074 (0) Googledrive chunked upload: 100 % uploaded (22020096)
+0057.104 (0) Google Drive: OK: Archive backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-themes.zip uploaded in 22.39 seconds
+0057.113 (0) Recording as successfully uploaded: backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-themes.zip
+0057.136 (0) Deleting local file: backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-themes.zip: OK
+0057.826 (0) Google Drive: quota usage: used=1158.6 MB, total=15360 MB, available=14201.4 MB
+0057.829 (0) Google Drive: backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-uploads.zip: Attempting to upload to Google Drive (into folder id: 1pjUDF1_tichCybM0O6US0_XWCtSjYI2i)
+0059.653 (0) Googledrive chunked upload: 2.5 % uploaded (1048576)
+0060.652 (0) Googledrive chunked upload: 5 % uploaded (2097152)
+0061.417 (0) Googledrive chunked upload: 7.5 % uploaded (3145728)
+0062.424 (0) Googledrive chunked upload: 10 % uploaded (4194304)
+0063.283 (0) Googledrive chunked upload: 12.5 % uploaded (5242880)
+0064.305 (0) Googledrive chunked upload: 15 % uploaded (6291456)
+0065.098 (0) Googledrive chunked upload: 17.4 % uploaded (7340032)
+0065.863 (0) Googledrive chunked upload: 19.9 % uploaded (8388608)
+0066.737 (0) Googledrive chunked upload: 22.4 % uploaded (9437184)
+0067.604 (0) Googledrive chunked upload: 24.9 % uploaded (10485760)
+0068.615 (0) Googledrive chunked upload: 27.4 % uploaded (11534336)
+0069.633 (0) Googledrive chunked upload: 29.9 % uploaded (12582912)
+0070.472 (0) Googledrive chunked upload: 32.4 % uploaded (13631488)
+0071.412 (0) Googledrive chunked upload: 34.9 % uploaded (14680064)
+0072.421 (0) Googledrive chunked upload: 37.4 % uploaded (15728640)
+0073.424 (0) Googledrive chunked upload: 39.9 % uploaded (16777216)
+0074.428 (0) Googledrive chunked upload: 42.4 % uploaded (17825792)
+0075.180 (0) Googledrive chunked upload: 44.9 % uploaded (18874368)
+0076.180 (0) Googledrive chunked upload: 47.3 % uploaded (19922944)
+0077.049 (0) Googledrive chunked upload: 49.8 % uploaded (20971520)
+0077.978 (0) Googledrive chunked upload: 52.3 % uploaded (22020096)
+0078.988 (0) Googledrive chunked upload: 54.8 % uploaded (23068672)
+0079.997 (0) Googledrive chunked upload: 57.3 % uploaded (24117248)
+0080.812 (0) Googledrive chunked upload: 59.8 % uploaded (25165824)
+0081.817 (0) Googledrive chunked upload: 62.3 % uploaded (26214400)
+0082.572 (0) Googledrive chunked upload: 64.8 % uploaded (27262976)
+0083.388 (0) Googledrive chunked upload: 67.3 % uploaded (28311552)
+0084.400 (0) Googledrive chunked upload: 69.8 % uploaded (29360128)
+0085.168 (0) Googledrive chunked upload: 72.3 % uploaded (30408704)
+0086.020 (0) Googledrive chunked upload: 74.8 % uploaded (31457280)
+0086.832 (0) Googledrive chunked upload: 77.3 % uploaded (32505856)
+0087.612 (0) Googledrive chunked upload: 79.7 % uploaded (33554432)
+0088.622 (0) Googledrive chunked upload: 82.2 % uploaded (34603008)
+0089.646 (0) Googledrive chunked upload: 84.7 % uploaded (35651584)
+0090.508 (0) Googledrive chunked upload: 87.2 % uploaded (36700160)
+0091.387 (0) Googledrive chunked upload: 89.7 % uploaded (37748736)
+0092.208 (0) Googledrive chunked upload: 92.2 % uploaded (38797312)
+0093.240 (0) Googledrive chunked upload: 94.7 % uploaded (39845888)
+0094.236 (0) Googledrive chunked upload: 97.2 % uploaded (40894464)
+0095.248 (0) Googledrive chunked upload: 99.7 % uploaded (41943040)
+0097.361 (0) Googledrive chunked upload: 100 % uploaded (41943040)
+0097.390 (0) Google Drive: OK: Archive backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-uploads.zip uploaded in 39.55 seconds
+0097.400 (0) Recording as successfully uploaded: backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-uploads.zip
+0097.426 (0) Deleting local file: backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-uploads.zip: OK
+0098.038 (0) Google Drive: quota usage: used=1198.7 MB, total=15360 MB, available=14161.3 MB
+0098.041 (0) Google Drive: backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-others.zip: Attempting to upload to Google Drive (into folder id: 1pjUDF1_tichCybM0O6US0_XWCtSjYI2i)
+0101.342 (0) Googledrive chunked upload: 100 % uploaded
+0101.372 (0) Google Drive: OK: Archive backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-others.zip uploaded in 3.32 seconds
+0101.381 (0) Recording as successfully uploaded: backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-others.zip
+0101.401 (0) Deleting local file: backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-others.zip: OK
+0102.040 (0) Google Drive: quota usage: used=1199.3 MB, total=15360 MB, available=14160.7 MB
+0102.043 (0) Google Drive: backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-db.gz: Attempting to upload to Google Drive (into folder id: 1pjUDF1_tichCybM0O6US0_XWCtSjYI2i)
+0105.329 (0) Googledrive chunked upload: 100 % uploaded
+0105.343 (0) Google Drive: OK: Archive backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-db.gz uploaded in 3.29 seconds
+0105.352 (0) Recording as successfully uploaded: backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-db.gz
+0105.381 (0) Deleting local file: backup_2019-04-16-1636_Connect_Muslims_with_Melbourne_e01da9e77110-db.gz: OK
+0105.401 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0105.412 (0) Number of backup sets in history: 3; groups (db): 1
+0105.421 (0) Examining (for databases) backup set with group_id=0, nonce=e01da9e77110, datestamp=1555392999 (Apr 16 2019 05:36:39)
+0105.431 (0) This backup set is the backup set just made, so will not be deleted.
+0105.431 (0) Examining (for databases) backup set with group_id=0, nonce=04c4d8e3a698, datestamp=1555053361 (Apr 12 2019 07:16:01)
+0105.431 (0) This backup set (1555053361) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0105.431 (0) Examining (for databases) backup set with group_id=0, nonce=865e01ccba20, datestamp=1555053180 (Apr 12 2019 07:13:00)
+0105.431 (0) This backup set (1555053180) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+0105.431 (0) Number of backup sets in history: 3; groups (files): 1
+0105.440 (0) Examining (for files) backup set with nonce=e01da9e77110, datestamp=1555392999 (Apr 16 2019 05:36:39)
+0105.440 (0) This backup set is the backup set just made, so will not be deleted.
+0105.451 (0) This backup set is the backup set just made, so will not be deleted.
+0105.451 (0) This backup set is the backup set just made, so will not be deleted.
+0105.451 (0) This backup set is the backup set just made, so will not be deleted.
+0105.451 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0105.461 (0) Examining (for files) backup set with nonce=04c4d8e3a698, datestamp=1555053361 (Apr 12 2019 07:16:01)
+0105.461 (0) This backup set (1555053361) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0105.461 (0) This backup set (1555053361) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0105.461 (0) This backup set (1555053361) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0105.461 (0) This backup set (1555053361) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0105.461 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0105.461 (0) Examining (for files) backup set with nonce=865e01ccba20, datestamp=1555053180 (Apr 12 2019 07:13:00)
+0105.461 (0) This backup set (1555053180) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+0105.461 (0) This backup set (1555053180) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+0105.461 (0) This backup set (1555053180) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+0105.461 (0) This backup set (1555053180) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+0105.461 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0105.461 (0) Retain: saving new backup history (sets now: 3) and finishing retain operation
+0105.480 (0) Resume backup (e01da9e77110, 0): finish run
+0105.509 (0) Decremented the semaphore (fd) by 1
+0105.529 (0) Semaphore (fd) unlocked
+0105.539 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0105.568 (0) Fetching RSS news feed
+0106.048 (0) Fetched RSS news feed; result is a: SimplePie
+0106.090 (0) Sending email ('Files and database (Full backup)') report (attachments: 1, size: 38.8 KB) to: wszy5...
+0106.127 (0) The backup apparently succeeded (with warnings) and is now complete

@@ -1,0 +1,225 @@
+/*--------------------------------------------------*/
+/* Main Zomato User Widget
+/*--------------------------------------------------*/
+
+.zuw {
+  background-color: #2d2d2a;
+  text-align: center;
+  position: relative;
+  border-radius: 3px !important;
+  padding-top: 20px;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+}
+
+#zuw__blurred-bg {
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  background-position: center center;
+  z-index: 1;
+  border-radius: 3px !important;
+}
+
+#zuw__overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #2D2D2A;
+  z-index: 2;
+  opacity: 0.8;
+  border-radius: 3px !important;
+}
+
+.zuw__profile-link {
+  text-decoration: none;
+  display: block;
+  color: inherit;
+  position: relative;
+  z-index: 3;
+}
+
+#zuw__profile-pic {
+  border-radius: 100% !important;
+  width: 55px;
+  height: 55px;
+  background-size: contain;
+  display: block;
+  margin: auto;
+  position: relative;
+  z-index: 3;
+}
+
+#zuw__name {
+  font-size: 14px !important;
+  margin-top: 10px !important;
+  margin-bottom: 0 !important;
+  font-weight: bold !important;
+  text-decoration: none;
+  color: #ffffff !important;
+  font-weight: bold !important;
+}
+
+#zuw__level {
+  text-transform: uppercase;
+  font-size: 12px !important;
+  margin-top: 5px !important;
+  margin-bottom: 15px !important;
+  color: #CBCBC8 !important;
+  font-weight: normal !important;
+}
+
+.zuw__level-icon {
+  margin-right: 4px !important;
+}
+
+.zuw__level-icon:before {
+  content: 'a' !important;
+  text-transform: lowercase !important;
+  font-family: 'zwidgetregular' !important;
+  font-size: 9px !important;
+  margin-right: 3px !important;
+}
+
+/* Foodie Level Colour Modifiers*/
+.zuw__level-icon--l1,
+.zuw__level-icon--l2,
+.zuw__level-icon--l3 {
+  color: #ffd35d !important;
+}
+
+.zuw__level-icon--l4,
+.zuw__level-icon--l5,
+.zuw__level-icon--l6,
+.zuw__level-icon--l7 {
+  color: #ffae4f !important;
+}
+
+.zuw__level-icon--l8,
+.zuw__level-icon--l9,
+.zuw__level-icon--l10,
+.zuw__level-icon--l11 {
+  color: #f58552 !important;
+}
+
+.zuw__level-icon--l12,
+.zuw__level-icon--l13 {
+  color: #e95151 !important;
+}
+
+#zuw__bio {
+  margin-bottom: 10px !important;
+  padding: 0 8px !important;
+  line-height: 1.4 !important;
+  text-decoration: none;
+  color: #CBCBC8 !important;
+  font-weight: normal !important;
+}
+
+#zuw-stats {
+  zoom: 1;
+  position: relative;
+  z-index: 3;
+  list-style-type: none;
+  width: 100%;
+  border-top: solid 1px rgba(45, 45, 42, 0.4);
+  box-sizing: border-box;
+}
+
+.zuw-stat {
+  zoom: 1;
+  width: 33.33%;
+  float: left !important;
+  text-align: center;
+  padding-top: 10px !important;
+  padding-bottom: 12px !important;
+  box-sizing: border-box !important;
+  border-bottom: none !important;
+}
+
+.zuw-stat a {
+  display: block;
+  text-decoration: none;
+  font-weight: normal !important;
+}
+
+.zuw-stat:nth-child(2) {
+  border-left: solid 1px rgba(45, 45, 42, 0.4);
+  border-right: solid 1px rgba(45, 45, 42, 0.4);
+}
+
+.zuw-stat span {
+  display: block;
+}
+
+.zuw-stat--number {
+  color: #ffffff;
+}
+
+.zuw-stat--label {
+  text-transform: uppercase !important;
+  font-size: 10px !important;
+  color: #CBCBC8 !important;
+}
+
+
+/*--------------------------------------------------*/
+/* Message Boxes
+/*--------------------------------------------------*/
+
+.zuw-message-box {
+  background-color: #eaeaea;
+  border: solid 1px #2d2d2a;
+  border-radius: 3px;
+  padding: 10px 15px;
+}
+
+.zuw-message {
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+}
+
+.zuw-message-box--error {
+  background-color: #FFBABA !important;
+  border: solid 1px #bc212d;
+}
+
+.zuw-message-box--error .zuw-message {
+  color: #bc212d;
+}
+
+
+
+/*--------------------------------------------------*/
+/* Helper Classes
+/*--------------------------------------------------*/
+
+.cf:before,
+.cf:after {
+  content: " ";
+  display: table;
+}
+.cf:after {
+  clear: both;
+}
+.cf {
+  *zoom: 1;
+}
+
+
+/*--------------------------------------------------*/
+/* Custom Font Face for Icon
+/*--------------------------------------------------*/
+
+@font-face {
+  font-family: 'zwidgetregular';
+  src: url(data:application/x-font-woff;charset=utf-8;base64,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) format('woff'),
+       url('zwidget-webfont.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}

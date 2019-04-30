@@ -1,0 +1,51 @@
+/**
+ * Admin specific CSS
+ */
+.widgets-php .eaw-columns-2 {
+    overflow: hidden;
+    float: left;
+    width: 46%;
+    margin-right: 3.5%;
+}
+
+.widgets-php .eaw-columns-3 select.widefat {
+    width: 98.5%;
+}
+
+.widgets-php .eaw-column-last {
+    float: right;
+    margin-right: 0;
+}
+
+.widgets-php .eaw-columns-3 label {
+    font-size: 11px;
+}
+
+.widgets-php .eaw-columns-3 p small {
+    color: #777;
+    font-style: italic;
+}
+
+.small-input {
+    width: 30%;
+}
+
+.eaw-block {
+    display: block;
+}
+
+.eaw-multiple-check-form {
+    margin: 1em 0;
+}
+
+.eaw-multiple-check-form ul {
+    border: 1px solid rgb(238, 238, 238);
+    padding: 10px;
+    max-height: 110px;
+    overflow: auto;
+    margin-top: 0;
+}
+
+.eaw-multiple-check-form ul li:last-child {
+    margin-bottom: 0;
+}

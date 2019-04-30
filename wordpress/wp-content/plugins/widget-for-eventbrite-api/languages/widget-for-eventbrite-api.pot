@@ -1,0 +1,321 @@
+# Copyright (C) 2019 widget-for-eventbrite-api
+# This file is distributed under the same license as the widget-for-eventbrite-api package.
+msgid ""
+msgstr ""
+"Project-Id-Version: widget-for-eventbrite-api\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: src/admin/class-admin-pages.php:90
+msgid "Are you sure want to do this?"
+msgstr ""
+
+#: src/admin/class-admin-pages.php:202
+msgid "Save Options"
+msgstr ""
+
+#: src/admin/class-admin-pages.php:230
+msgid "Save"
+msgstr ""
+
+#: src/admin/class-admin-pages.php:246
+msgid "Settings reset to defaults."
+msgstr ""
+
+#: src/admin/class-admin-settings.php:35
+msgid "Display Eventbrite Events Settings"
+msgstr ""
+
+#: src/admin/class-admin-settings.php:98
+msgid "Information"
+msgstr ""
+
+#: src/admin/class-admin-settings.php:106
+msgid "Eventbrite API Key"
+msgstr ""
+
+#: src/admin/class-admin-settings.php:114
+msgid "Manage Cache"
+msgstr ""
+
+#: src/admin/class-admin-settings.php:122
+msgid "Shortcode Syntax"
+msgstr ""
+
+#: src/admin/class-admin-settings.php:153
+msgid "The Cache has been reset"
+msgstr ""
+
+#: src/admin/class-admin-settings.php:203
+msgid " : instructions on how to find your key are <a href=\"https://fullworks.net/technical-documentation/widget-for-eventbrite-technical-installation/eventbrite-key\" target=\"_blank\">here</a>"
+msgstr ""
+
+#: src/admin/class-admin-settings.php:229
+msgid ""
+"<p>Welcome. To use this plugin add the widget to your website</p><p>For more detailed setup instructions visit <a target= \"_blank\" href=\"https://fullworks.net/technical-documentation/widget-for-eventbrite-technical-installation/\" >this page.</a></p>\n"
+"            <p>Support for the <strong>free</strong> version is provided <a href=\"https://wordpress.org/support/plugin/widget-for-eventbrite-api\" target=\"_blank\">here on WordPress.org.</a></p>\n"
+"			<p>Get a FREE trial of the Pro version - <a href=\"%1$s\">click here</a> \n"
+"			<h2>Pro Version Benefits</h2>\n"
+"			<ul style=\"list-style-type:disc;list-style-position: inside;\">\n"
+"			    <li>14 day free trial</li>\n"
+"				<li>Let your users see your events on full pages and post</li>\n"
+"				<li>Show your events off on layouts including styles for Divi, Genesis and WP default themes</li>\n"
+"				<li>Need a calendar layout? We have one of those</li>\n"
+"				<li>Like a grid layout? We have one of those too</li>\n"
+"				<li>Full page? of course - why not browse the <a href=\"https://widget-for-eventbrite-api.demo.fullworks.net/\" target=\"_blank\">demo site</a> to see basic examples</li>\n"
+"				<li>Want to show off invite only events? the pro version can</li>\n"
+"				<li>Do you have lots of events and would like to filter them down? The shortcode has sophisticated filters</li>\n"
+"				<li>Need to see your events during development or quickly? The pro version has cache management</li>\n"
+"				<li>Worried about integrating to your theme? Don't fear, we are ready to support you.</li>\n"
+"			</ul>\n"
+"			<h2>** from only $16.99 **</h2>\n"
+"			</p>\n"
+"			"
+msgstr ""
+
+#: src/admin/class-admin-settings.php:253
+msgid ""
+"Welcome to the premium version of this plugin %1$s. <p>To use this plugin add the widget to your website or use the shortcode in your pages or posts</p><p><a target= \"_blank\" href=\"https://fullworks.net/technical-documentation/widget-for-eventbrite-technical-installation/\" >detailed setup and usage instructions</a></p>\n"
+"            <p>To contact us for support or other reasons  please use <a href=\"/wp-admin/options-general.php?page=widget-for-eventbrite-api-settings-contact\"\">this page</a></p>\n"
+"			"
+msgstr ""
+
+#: src/admin/class-admin-settings.php:267
+msgid "<p>Cache management is only available on the pro plan or trial</p>"
+msgstr ""
+
+#: src/admin/class-admin-settings.php:291
+msgid "1 Week"
+msgstr ""
+
+#: src/admin/class-admin-settings.php:295
+msgid "2 Days"
+msgstr ""
+
+#: src/admin/class-admin-settings.php:299
+msgid "1 Day"
+msgstr ""
+
+#: src/admin/class-admin-settings.php:303
+msgid "1 hour"
+msgstr ""
+
+#: src/admin/class-admin-settings.php:307
+msgid "1 Minute"
+msgstr ""
+
+#: src/admin/class-admin-settings.php:314
+msgid "Cache Duration"
+msgstr ""
+
+#: src/admin/class-admin-settings.php:326
+msgid "Set the cache period for the Eventbrite API. Gathering data from Eventbrite naturally takes time, so to provide the best user experience we recommend using a cache duration of at least 1 day in production"
+msgstr ""
+
+#: src/admin/class-admin-settings.php:331
+msgid "Clear Cache"
+msgstr ""
+
+#: src/admin/class-admin-settings.php:339
+msgid "Tick and save to clear"
+msgstr ""
+
+#: src/admin/class-admin-settings.php:341
+msgid "Clear the cache now, use for testing or if you change the cache period to reset right now"
+msgstr ""
+
+#: src/admin/class-admin-settings.php:354
+msgid ""
+"The shortcode is only available in the paid for version<br><br>\n"
+"			Get a FREE trial of the Pro version - <a href=\"%1$s\">click here</a> \n"
+"			<h2>Pro Version Benefits</h2>\n"
+"			<ul style=\"list-style-type:disc;list-style-position: inside;\">\n"
+"				<li>14 day free trial</li>\n"
+"				<li>Let your users see your events on full pages and post</li>\n"
+"				<li>Show your events off on layouts including styles for Divi, Genesis and WP default themes</li>\n"
+"				<li>Need a calendar layout? We have one of those</li>\n"
+"				<li>Like a grid layout? We have one of those too</li>\n"
+"				<li>Full page? of course - why not browse the <a href=\"https://widget-for-eventbrite-api.demo.fullworks.net/\" target=\"_blank\">demo site</a> to see basic examples</li>\n"
+"				<li>Want to show off invite only events? the pro version can</li>\n"
+"				<li>Do you have lots of events and would like to filter them down? The shortcode has sophisticated filters</li>\n"
+"				<li>Need to see your events during development or quickly? The pro version has cache management</li>\n"
+"				<li>Worried about setting it all up - or integrating to your theme? Don't fear, we are ready to support you.</li>			\n"
+"			</ul>\n"
+"			<h2>** from only $16.99 **</h2>\n"
+"			Available when you go pro - Shortcode [wfea]  or [wfea layout=\"divi\" ] or [wfea layout=\"grid\" ] etc - see  <a href=\"https://fullworks.net/technical-documentation/widget-for-eventbrite-technical-installation/\" target=\"_blank\"> this page</a> for many optional arguments\n"
+"			"
+msgstr ""
+
+#: src/admin/class-admin-settings.php:376
+msgid ""
+"%1$s\n"
+"				Shortcode [wfea]  or [wfea layout=\"divi\" ] or  [wfea layout=\"cal\"] etc - many other options see  <a href=\"https://fullworks.net/technical-documentation/widget-for-eventbrite-technical-installation/\" target=\"_blank\"> this page</a> for optional arguments\n"
+"			"
+msgstr ""
+
+#: src/admin/class-admin-settings.php:393
+msgid "Your personal OAuth token"
+msgstr ""
+
+#: src/admin/class-admin-settings.php:401
+msgid "The key is required to connect to Eventbrite - instructions on how to create a key are <a href=\"https://fullworks.net/technical-documentation/widget-for-eventbrite-technical-installation/eventbrite-key\" target=\"_blank\">here</a>"
+msgstr ""
+
+#: src/admin/class-admin.php:138
+msgid "Eventbrite Events Display Plugin: Keyring is deprecated and will be removed in future release - please use Personal OAuth Key in  <a href=\"%1$s\">settings here</a> ."
+msgstr ""
+
+#: src/frontend/class-frontend.php:60, src/includes/class-eventbrite-api-widget.php:130
+msgid "Read More &raquo;"
+msgstr ""
+
+#: src/frontend/class-frontend.php:62
+msgid "Register &raquo;"
+msgstr ""
+
+#: src/frontend/class-frontend.php:156
+msgid "*** Invalid regex used in your shortcode filter_title option *** "
+msgstr ""
+
+#: src/frontend/class-frontend.php:168
+msgid "*** Invalid regex used in your shortcode filter_location option *** "
+msgstr ""
+
+#: src/frontend/class-frontend.php:194, src/includes/class-eventbrite-api-widget.php:71
+msgid "Display Eventbrite Plugin Error ( this shows to admins only ): "
+msgstr ""
+
+#: src/frontend/class-frontend.php:196, src/frontend/class-frontend.php:218
+msgid "<h2>--- DEBUG OUTPUT ---</h2>"
+msgstr ""
+
+#: src/includes/autoloader.php:8
+msgid "System error - autoloader failed"
+msgstr ""
+
+#: src/includes/class-eventbrite-api-widget.php:123
+msgid "Upcoming Events"
+msgstr ""
+
+#: src/includes/class-eventbrite-api-widget.php:132
+msgid "Book Now &raquo;"
+msgstr ""
+
+#: src/includes/class-eventbrite-api-widget.php:227
+msgid "You are in the Free trial - <a href=\"%1$s\">Upgrade Now!</a> to keep benefits"
+msgstr ""
+
+#: src/includes/class-eventbrite-api-widget.php:235
+msgid "Try Pro. FREE trial 7 days <a href=\"%1$s\">FREE trial 7 days.</a>"
+msgstr ""
+
+#: src/includes/class-eventbrite-api-widget.php:246
+msgid "Title"
+msgstr ""
+
+#: src/includes/class-eventbrite-api-widget.php:255
+msgid "Title URL"
+msgstr ""
+
+#: src/includes/class-eventbrite-api-widget.php:264
+msgid "CSS ID"
+msgstr ""
+
+#: src/includes/class-eventbrite-api-widget.php:273
+msgid "CSS Class"
+msgstr ""
+
+#: src/includes/class-eventbrite-api-widget.php:282
+msgid "HTML or text before the recent posts"
+msgstr ""
+
+#: src/includes/class-eventbrite-api-widget.php:291
+msgid "HTML or text after the recent posts"
+msgstr ""
+
+#: src/includes/class-eventbrite-api-widget.php:304
+msgid "Display Book Now Button"
+msgstr ""
+
+#: src/includes/class-eventbrite-api-widget.php:314
+msgid "Book Now button goes straight to tickets pop up"
+msgstr ""
+
+#: src/includes/class-eventbrite-api-widget.php:322
+msgid "Book Now Text"
+msgstr ""
+
+#: src/includes/class-eventbrite-api-widget.php:339
+msgid "Also display private events"
+msgstr ""
+
+#: src/includes/class-eventbrite-api-widget.php:350
+msgid "Open Eventbrite in a new tab"
+msgstr ""
+
+#: src/includes/class-eventbrite-api-widget.php:360
+msgid "Display Date / Time"
+msgstr ""
+
+#: src/includes/class-eventbrite-api-widget.php:367
+msgid "Number of posts to show"
+msgstr ""
+
+#: src/includes/class-eventbrite-api-widget.php:381
+msgid "Display Thumbnail"
+msgstr ""
+
+#: src/includes/class-eventbrite-api-widget.php:387
+msgid "Thumbnail (width,align)"
+msgstr ""
+
+#: src/includes/class-eventbrite-api-widget.php:394
+msgid "Left"
+msgstr ""
+
+#: src/includes/class-eventbrite-api-widget.php:395
+msgid "Right"
+msgstr ""
+
+#: src/includes/class-eventbrite-api-widget.php:396
+msgid "Center"
+msgstr ""
+
+#: src/includes/class-eventbrite-api-widget.php:402
+msgid "Default Thumbnail"
+msgstr ""
+
+#: src/includes/class-eventbrite-api-widget.php:407
+msgid "Leave it blank to disable."
+msgstr ""
+
+#: src/includes/class-eventbrite-api-widget.php:417
+msgid "Display Event Description"
+msgstr ""
+
+#: src/includes/class-eventbrite-api-widget.php:423
+msgid "Description Length"
+msgstr ""
+
+#: src/includes/class-eventbrite-api-widget.php:435
+msgid "Display Readmore"
+msgstr ""
+
+#: src/includes/class-eventbrite-api-widget.php:441
+msgid "Readmore Text"
+msgstr ""
+
+#: src/includes/class-eventbrite-manager.php:74
+msgid "No connection available for Eventbrite"
+msgstr ""
+
+#: src/templates/shortcode_layout_1__premium_only.php:78, src/templates/shortcode_layout_divigrid__premium_only.php:76, src/templates/shortcode_layout_divi__premium_only.php:78, src/templates/shortcode_layout_grid__premium_only.php:76, src/templates/widget.php:58
+msgid "Eventbrite link to %1$s"
+msgstr ""
