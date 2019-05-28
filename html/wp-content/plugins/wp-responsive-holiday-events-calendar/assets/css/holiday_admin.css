@@ -1,0 +1,296 @@
+input.readonly, input[readonly]{
+	background:#fff;
+}
+.buttonadd {
+  padding: 5px 25px;
+  font-size: 16px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: #4CAF50;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 4px #999;
+}
+.buttonadd:hover {
+	background-color: #3e8e41
+}
+.buttonadd:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+}
+.holiday,.holiday-list{
+	margin-top:20px;
+}
+/* .edit{
+	padding:5px 10px;
+	background-color: #5cb85c;
+	color: #fff;
+	border:1px solid transparent; 
+	cursor:pointer;
+}
+.remove{
+	padding:5px 10px;
+	background-color: #d9534f;
+	color: #fff;
+	border:1px solid transparent;
+	cursor:pointer;
+	margin-left:5px;
+} */
+table{
+	border-collapse:collapse;
+}
+
+/* .border-cell td{
+	border:3px solid #ccc;
+} */
+.border-cell .title, .border-cell .url {
+	width:100%;
+	/* height:40px;
+	border: 3px solid #d4deef; */
+}
+.border-cell .date{
+	width:170px;
+	float:left;
+}
+.border-cell b{
+	font-size:16px;
+}
+.update{
+	background-color: #ffffcc;
+	border-left: 6px solid #ffeb3b;
+	margin-bottom: 15px;
+	max-width: 703px;
+	padding: 1px 15px;
+}
+.holiday-option .option-form-group{
+	margin:15px 0;
+}
+.holiday-option label{
+	display: inline-block;
+    padding-right: 15px;
+    text-align: right;
+    width: 154px;
+	color:#32373c;
+	font-weight:normal;
+}
+.holiday-tab {
+	margin-bottom:35px;
+	background-color: #ededed;
+    border: 1px solid #ccc;
+    overflow: hidden;	
+}
+
+.holiday-tab a{
+	background-color: inherit;
+    border-right: 1px solid #ccc;
+    color: #333;
+    cursor: pointer;
+    float: left;
+    font-size: 16px;
+    font-weight: normal;
+    min-width: 90px;
+    outline: medium none;
+    padding: 14px 16px;
+    text-align: center;
+    transition: all 0.3s ease 0s;
+}
+a.holiday-tab-active{
+	background-color: #0073aa;
+    color: #fff;
+}
+.holiday-tab a:hover,.holiday-tab a:focus,.holiday-tab a:active {
+    background-color: #0073aa;
+    color: #fff;
+	outline-offset:0;
+	text-decoration:none;
+	box-shadow:none;
+}
+
+.width30{
+	display:inline-block;
+	width:30%;
+	vertical-align:top;
+}
+.width70{
+	display:inline-block;
+	width:100%;
+	vertical-align:top;
+}
+ .holiday-row {
+    background: #d3deef none repeat scroll 0 0;
+    margin-bottom: 30px;
+}
+ .holiday-row .date {
+    background: #2e4d7b none repeat scroll 0 0;
+    color: #fff;
+    font-weight: bold;
+    min-width: 100px;
+    padding: 16px;
+    text-align: center;
+}
+  .holiday-row .date .day {
+    font-size: 40px;
+    line-height: 42px;
+    padding-bottom: 7px;
+}
+  .holiday-row .title {
+    background: #d3deef none repeat scroll 0 0;
+    color: #000;
+    padding: 20px;
+    text-align: center;
+}
+.view1 .media-left,.view1 .media-right,.view1 .media-body {
+    display: table-cell;
+    vertical-align: middle;
+}
+.view1 .media-body {
+    width: 10000px;
+}
+.view1  .media,.view1  .media-body {
+    overflow: hidden;
+}
+#view2 .title{
+	min-height:90px;
+	display: table-cell;
+    height: 120px;
+    min-height: 90px;
+	vertical-align: middle;
+    width: 100%;
+    word-break: break-all;
+}
+#view3 .holiday-row{
+	position:relative;
+	overflow:hidden;
+	border-left: 10px solid #d3deef;
+}
+#view3 .holiday-hover{
+	position:absolute;
+	top:0;
+	left:0;
+	bottom:0;
+	right:-1px;
+	transition: all 0.5s ease 0s;
+	transform: scaleX(0);
+    transform-origin: -100%;
+	background:#d3deef;	
+}
+#view3 .holiday-row:hover .holiday-hover{
+	text-align:center;
+	transform: scaleX(1);
+}
+#view3 .holiday-row .date{
+	padding:25px;
+} 
+
+#view3 .holiday-hover-title{
+	display:table;
+	height:100%;
+	width:100%;
+	text-align:center;
+}
+#view3 .holiday-hover-title div{
+	display:table-cell;
+	vertical-align:middle;
+}
+#view4 .holiday-row {
+    background: #d3deef none repeat scroll 0 0;
+    display: table;
+    height: 100px;
+    margin-bottom: 20px;
+    margin-top: 40px;
+    position: relative;
+    text-align: center;
+    width: 100%;
+}
+#view4 .holiday-row  .date{
+background: #2e4d7b none repeat scroll 0 0;
+    border: 1px solid;
+    border-radius: 50%;
+    color: #ffffff;
+    display: table-cell;
+    height: 75px;
+    left: 0;
+    margin: 0 auto;
+    padding: 7px;
+    position: absolute;
+    right: 0;
+    top: -37px;
+    width: 75px; 
+	min-width:75px!important;
+}
+#view4  .holiday-row .date .day {
+    font-size: 22px;
+    line-height: normal;
+    padding-bottom: 0;
+}	
+#view4  .holiday-row  .title {
+  background: #d3deef none repeat scroll 0 0;
+    color: #000000;
+    display: table-cell;
+    font-size: 18px;
+    vertical-align: middle;
+}
+.previewdiv{
+	border: 4px dashed #b4b9be;
+	padding-top:30px!important;
+	min-height:301px!important;
+	position:relative;
+	background: #fff none repeat scroll 0 0;
+}
+.preview-msg{
+	top:50%;
+	transform: translateY(-50%);
+	-webkit-transform: translateY(-50%);
+	/* bottom:0; */
+	left:0;
+	right:0;
+	font-size:30px;
+	position:absolute;
+	margin:0 auto;
+	text-align:center;
+}
+.fc button, .fc-button-group, .fc-time-grid .fc-event .fc-time span {
+	display:block;
+}
+.border-cell .edit:hover,.border-cell .edit:focus,.border-cell .edit:active{
+	outline-offset:0;
+}
+#holiday-option .inputselect{
+	background: #fff none repeat scroll 0 0;
+    color: #000;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 15px 10px;
+    width: 100%;
+	margin-top:30px;
+}	
+#holiday-option .inputselect:focus{
+	border-color:#fff;
+	color:#000;
+	box-shadow:none;
+}
+#holiday-option .display-title{
+	display:table;
+	width:100%;
+}
+#view4 table .fc-day-top.fc-today span{
+			 background: #f1f1f1 none repeat scroll 0 0;
+			border-radius: 50%;
+			color: #000;
+			height: 25px;
+			line-height: 2;
+			text-align: center;
+			width: 25px;
+} 
+#view4 .fc-content-skeleton table{
+	min-height:130px;
+}
+#view4 {
+padding-bottom: 30px;
+}
+.holiday-outer .form-group label {
+    margin-left: 10px;
+    margin-right: 5px;
+}

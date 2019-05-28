@@ -1,0 +1,11 @@
+2019-05-14T05:09:41+00:00 CRITICAL Uncaught Error: Call to a member function fetch_assoc() on boolean in /var/www/html/wp-content/plugins/insert-php/includes/shortcodes/shortcode-php.php(45) : eval()'d code:50
+Stack trace:
+#0 /var/www/html/wp-content/plugins/insert-php/includes/shortcodes/shortcode-php.php(45): eval()
+#1 /var/www/html/wp-content/plugins/insert-php/libs/factory/shortcodes/shortcode.class.php(287): WINP_SnippetShortcodePhp->html(Array, '')
+#2 /var/www/html/wp-content/plugins/insert-php/libs/factory/shortcodes/shortcodes.php(97): Wbcr_FactoryShortcodes325_Shortcode->render(Array, '')
+#3 /var/www/html/wp-includes/shortcodes.php(325): Wbcr_FactoryShortcodes325_ShortcodeManager->__call('shortcode_WINP_...', Array)
+#4 [internal function]: do_shortcode_tag(Array)
+#5 /var/www/html/wp-includes/shortcodes.php(199): preg_replace_callback('/\\[(\\[?)(wbcr_p...', 'do_shortcode_ta...', '[wbcr_php_snipp...')
+#6 /var/www/html/wp-includes/class-wp-hook.php(286): do_shortcode('[wbcr_php_snipp...')
+#7 /var/www/html/wp-includes/plugin.php(208): WP in /var/www/html/wp-content/plugins/insert-php/includes/shortcodes/shortcode-php.php(45) : eval()'d code on line 50
+

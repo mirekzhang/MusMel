@@ -1,0 +1,30 @@
+
+
+# BEGIN WP Hide & Security Enhancer
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+#WriteCheckString:1558351230_18665
+RewriteRule .* - [E=HTTP_MOD_REWRITE:On]
+
+RewriteCond %{REQUEST_URI} /philips-php$
+RewriteRule ^(.*)$ /philips-php/ [R=301,L]
+RewriteRule ^philips-php(.*) /wp-admin$1 [L,QSA]
+</IfModule>
+
+# END WP Hide & Security Enhancer
+#This Apache config file was created by Duplicator Installer on 2019-05-15 10:35:12.
+#The original can be found in archived file with the name htaccess.orig
+
+# BEGIN WordPress
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
+</IfModule>
+
+# END WordPress
+

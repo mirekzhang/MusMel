@@ -1,0 +1,166 @@
+# Copyright (C) 2017 WP Responsive Holiday/Events Calendar
+# This file is distributed under the same license as the WP Responsive Holiday/Events Calendar package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Responsive Holiday/Events Calendar 1.0.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/wp-responsive-"
+"holiday-events-calendar\n"
+"POT-Creation-Date: 2017-12-28 11:17:17+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: storedata.php:11
+msgid "You don't have permission to view this page"
+msgstr ""
+
+#: storedata.php:134 wp-responsive-holiday-events-calendar.php:177
+#: wp-responsive-holiday-events-calendar.php:264
+msgid "Existing Tab"
+msgstr ""
+
+#: storedata.php:135 wp-responsive-holiday-events-calendar.php:178
+#: wp-responsive-holiday-events-calendar.php:265
+msgid "New Tab"
+msgstr ""
+
+#: storedata.php:141 wp-responsive-holiday-events-calendar.php:216
+#: wp-responsive-holiday-events-calendar.php:272
+msgid "Update"
+msgstr ""
+
+#: storedata.php:142 wp-responsive-holiday-events-calendar.php:217
+#: wp-responsive-holiday-events-calendar.php:275
+msgid "Delete"
+msgstr ""
+
+#: wp-responsive-holiday-events-calendar.php:41
+#: wp-responsive-holiday-events-calendar.php:152
+msgid "WP Responsive Holiday Events Calendar"
+msgstr ""
+
+#: wp-responsive-holiday-events-calendar.php:104
+msgid "Please enter valid date for <b> %s </b> holiday entry."
+msgstr ""
+
+#: wp-responsive-holiday-events-calendar.php:154
+msgid "Manage Holiday/Event"
+msgstr ""
+
+#: wp-responsive-holiday-events-calendar.php:155
+msgid "Display Option"
+msgstr ""
+
+#: wp-responsive-holiday-events-calendar.php:163
+msgid "Name*"
+msgstr ""
+
+#: wp-responsive-holiday-events-calendar.php:167
+msgid "Date*"
+msgstr ""
+
+#: wp-responsive-holiday-events-calendar.php:171
+#: wp-responsive-holiday-events-calendar.php:231
+#: wp-responsive-holiday-events-calendar.php:293
+msgid "Url"
+msgstr ""
+
+#: wp-responsive-holiday-events-calendar.php:175
+#: wp-responsive-holiday-events-calendar.php:234
+#: wp-responsive-holiday-events-calendar.php:296
+msgid "Open Url"
+msgstr ""
+
+#: wp-responsive-holiday-events-calendar.php:183
+msgid "Add Holiday/Event"
+msgstr ""
+
+#: wp-responsive-holiday-events-calendar.php:192
+msgid "Holidays updated successfully!"
+msgstr ""
+
+#: wp-responsive-holiday-events-calendar.php:196
+msgid "Holidays deleted successfully!"
+msgstr ""
+
+#: wp-responsive-holiday-events-calendar.php:215
+msgid "Bulk Actions"
+msgstr ""
+
+#: wp-responsive-holiday-events-calendar.php:219
+msgid "Apply"
+msgstr ""
+
+#: wp-responsive-holiday-events-calendar.php:227
+#: wp-responsive-holiday-events-calendar.php:287
+msgid "Name"
+msgstr ""
+
+#: wp-responsive-holiday-events-calendar.php:237
+#: wp-responsive-holiday-events-calendar.php:299
+msgid "Actions"
+msgstr ""
+
+#: wp-responsive-holiday-events-calendar.php:290
+msgid "Date"
+msgstr ""
+
+#: wp-responsive-holiday-events-calendar.php:314
+msgid "List View"
+msgstr ""
+
+#: wp-responsive-holiday-events-calendar.php:315
+msgid "Grid View"
+msgstr ""
+
+#: wp-responsive-holiday-events-calendar.php:316
+msgid "List Hover View"
+msgstr ""
+
+#: wp-responsive-holiday-events-calendar.php:317
+msgid "Calendar View"
+msgstr ""
+
+#: wp-responsive-holiday-events-calendar.php:321
+msgid "Date Font color"
+msgstr ""
+
+#: wp-responsive-holiday-events-calendar.php:325
+msgid "Text Font Color"
+msgstr ""
+
+#: wp-responsive-holiday-events-calendar.php:329
+msgid "Date Background Color"
+msgstr ""
+
+#: wp-responsive-holiday-events-calendar.php:333
+msgid "Text Background Color"
+msgstr ""
+
+#: wp-responsive-holiday-events-calendar.php:342
+msgid "Display Preview"
+msgstr ""
+
+
+#. Plugin Name of the plugin/theme
+msgid "WP Responsive Holiday/Events Calendar"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/wp-responsive-holiday-events-calendar/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Beautiful way to show your upcoming  Holidays and Events in WordPress."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Vsourz Digital"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.vsourz.com/"
+msgstr ""

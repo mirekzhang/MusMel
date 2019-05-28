@@ -1,0 +1,159 @@
+.holiday-row .date{
+	background:#2e4d7b;
+	color:#fff;
+	font-weight:bold;
+	text-align:center;
+	padding:16px;
+	min-width:inherit;
+}
+.holiday-row .date .day{
+	font-size:40px;
+	line-height:42px;
+	padding-bottom:7px;
+}
+.holiday-row .title{
+	background:#d3deef;
+	color:#000;
+	text-align:center;
+	padding:20px;
+	text-tranform:capitalize;
+}
+.holiday-row{
+	background:#d3deef;
+	margin-bottom:30px;
+}
+ .holiday-row {
+    background: #d3deef none repeat scroll 0 0;
+    margin-bottom: 30px;
+}
+ .holiday-row .date {
+    background: #2e4d7b none repeat scroll 0 0;
+    color: #fff;
+    font-weight: bold;
+    /* min-width: 110px; */
+    padding: 16px;
+    text-align: center;
+}
+  .holiday-row .date .day {
+    font-size: 40px;
+    line-height: 42px;
+    padding-bottom: 7px;
+}
+  .holiday-row .title {
+    background: #d3deef none repeat scroll 0 0;
+    color: #000;
+    padding: 20px;
+    text-align: center;
+}
+.view1 .media-left,.view1 .media-right,.view1 .media-body {
+    display: table-cell;
+    vertical-align: middle;
+}
+.view1 .media-body {
+    width: 10000px;
+}
+.view1  .media,.view1  .media-body {
+    overflow: hidden;
+	
+}
+#view2 .title{
+	min-height:90px;
+}
+#view3 .holiday-row{
+	position:relative;
+	overflow:hidden;
+	border-left: 10px solid #d3deef;
+}
+#view3 .holiday-hover{
+	position:absolute;
+	top:0;
+	left:0;
+	bottom:0;
+	right:0;
+	transition: all 0.5s ease 0s;
+	-webkit-transition: all 0.5s ease 0s;
+	transform: scaleX(0);
+	-webkit-transform: scaleX(0);
+	transform-origin: -100%;
+	-webkit-transform-origin: -100%;
+	background:#d3deef;	
+}
+#view3 .holiday-row:hover .holiday-hover{
+	text-align:center;
+	transform: scaleX(1);
+	-webkit-transform: scaleX(1);
+}
+#view3 .holiday-row .date{
+	padding:25px;
+} 
+
+#view3 .holiday-hover-title{
+	display:table;
+	height:100%;
+	width:100%;
+	text-align:center;
+}
+#view3 .holiday-hover-title div{
+	display:table-cell;
+	vertical-align:middle;
+}
+#view4 .holiday-row {
+    background: #d3deef none repeat scroll 0 0;
+    display: table;
+    height: 100px;
+    margin-bottom: 20px;
+    margin-top: 40px;
+    position: relative;
+    text-align: center;
+    width: 100%;
+}
+#view4 .holiday-row  .date{
+background: #2e4d7b none repeat scroll 0 0;
+    border: 1px solid;
+    border-radius: 50%;
+    color: #ffffff;
+    display: table-cell;
+    height: 75px;
+    left: 0;
+    margin: 0 auto;
+    padding: 5px;
+    position: absolute;
+    right: 0;
+    top: -37px;
+    width: 75px; 
+	min-width:75px!important;
+}
+#view4  .holiday-row .date .day {
+    font-size: 22px;
+    line-height: normal;
+    padding-bottom: 0;
+}	
+#view4  .holiday-row  .title {
+  background: #d3deef none repeat scroll 0 0;
+    color: #000000;
+    display: table-cell;
+    font-size: 18px;
+    vertical-align: middle;
+	
+}
+.fc-day-grid-event .fc-content {
+    white-space: normal!important;
+}
+.more-title{
+	margin-top:5px;
+}
+#view1 .holiday-row .date{
+	min-width:100px;
+}
+.fc-row .fc-content-skeleton td, .fc-row .fc-helper-skeleton td{
+	border-top:1px solid;
+}
+#view1 .col-md-4.col-sm-6 {
+    min-width: 280px;
+}
+#view2 .col-md-2.col-sm-6 {
+    min-width: 180px;
+}
+#view3 .col-md-3.col-sm-6 {
+	min-width: 280px;
+}
