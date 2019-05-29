@@ -1,0 +1,6 @@
+# MusMel
+This is the source code for the website https://musliminmelbourne.tk/.
+
+Around 10,000 new Muslim immigrants decide to call Melbourne their home each year, and this number is increasing year by year. Coming here is a big change for them - leaving their home country and adapting to a culture that is vastly different from their own. They are bound by their faith to consume only halal food and pray five times a day. But when they are moving to Melbourne, they do not know how to find a home near a mosque or halal food restaurants. They are unfamiliar with Melbourne housing, culture, driving, job scene - they do not even know are the important things to know before moving to Melbourne! 
+
+We aim to create an informative website, a one-stop shop, for our target audience - young Muslim families moving to Melbourne. This website will feature an interactive map of Melbourne full of information about prices for renting a house, mosques, schools, nearby shopping centres, etc. Once they find a suitable place to live, this website will also guide them to halal restaurants, public events, and volunteer opportunities - to help bridge the culture shock and live an integrated Australian lifestyle.
